@@ -1,7 +1,11 @@
-# Svelte + TS + Vite
+# Simple Todo app by Svelte
+This repository is simple a todo app using svelte
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
-
+## Install & Run
+- git clone this repository
+- npm install
+- npm run dev
+  
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
